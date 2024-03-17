@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\HomeWork03.16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8019E42-B158-4B86-8604-F3596027E3C5}|HomeWork03.16\\HomeWork03.16.csproj|c:\\users\\asus\\source\\repos\\homework03.16\\homework03.16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8019E42-B158-4B86-8604-F3596027E3C5}|HomeWork03.16\\HomeWork03.16.csproj|solutionrelative:homework03.16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HomeWork03.16\\HomeWork03.16\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork03.16\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HomeWork03.16\\HomeWork03.16\\Program.cs",
+              "RelativeToolTip": "HomeWork03.16\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwM8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:44:24.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
